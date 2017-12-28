@@ -8,7 +8,7 @@ import com.zdk.paopao.gson.Image;
 
 public class ImageInfo {
     private String avatar;
-    private String username;
+    private String usernameererre;
     private String content;
 
     public void parseImage(Image imageData, int position){
